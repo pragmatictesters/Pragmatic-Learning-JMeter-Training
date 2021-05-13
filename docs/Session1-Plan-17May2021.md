@@ -19,8 +19,14 @@
     1. [PerfMon (Servers Performance Monitoring)]( https://jmeter-plugins.org/wiki/PerfMon/)
     2. [Custom Thread Groups](https://jmeter-plugins.org/wiki/ConcurrencyThreadGroup/)
     3. [Listeners : Basic Graphs](https://jmeter-plugins.org/wiki/ResponseTimesOverTime/)
-    4. []()
+    4. [Listeners : Additional Graphs](https://jmeter-plugins.org/wiki/ResponseCodesPerSecond/)
     5. [Samplers : Dummy Sampler]( https://jmeter-plugins.org/wiki/DummySampler/)
+    6. [Samplers : Selenium WebDriver Support](https://github.com/undera/jmeter-plugins-webdriver)
+    7. [Timers : Throughput Shaping Timer]( https://jmeter-plugins.org/wiki/ThroughputShapingTimer/)
+    8. [Custom JMeter Functions](https://jmeter-plugins.org/wiki/Functions/)
+    9. [Inter-Thread Communication](https://jmeter-plugins.org/wiki/InterThreadCommunication/)
 
-4. Use of the plugins 
-5. Using Plugins in Redline13
+4. Use of the plugins in sample projects
+5. Documentation for Plgins
+6. Custom plugins installation    
+7. Using Plugins with Redline13
