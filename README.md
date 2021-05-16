@@ -1,5 +1,7 @@
 # JMeter Advanced Level Training
 Welcome to the JMeter Advanced Level Training conducted by Pragmatic Training!
+We will use this project to share the JMeete test plans , daily plans, daily notes, references and other artifacts related to the training.
+
 
 ## Prerequisites
 
@@ -9,6 +11,8 @@ Welcome to the JMeter Advanced Level Training conducted by Pragmatic Training!
 3. Basic programming knowledge
 
 ## Setup training environment
+Please ensure this GitHub repo is clone into your machine to practice the lessons learned from the training.
+
 1. Install JDK 1.8
 2. Install IntelliJ IDEA community edition
 3. Install Git
@@ -17,7 +21,7 @@ Welcome to the JMeter Advanced Level Training conducted by Pragmatic Training!
 
 
 ## Course outline
-Following is the high level course outline for the training
+Following is the high level course outline for the training.
 1. JMeter Plugins
 2. File uploading with JMeter
 3. Simulating Throughput
@@ -29,6 +33,8 @@ Following is the high level course outline for the training
 9. Distribute testing
 10. Running your tests with Redline13
 
+
+
 ## References
 
 1. [JMeter official website](https://jmeter.apache.org)
@@ -38,4 +44,6 @@ Following is the high level course outline for the training
     1. [Web Testing](http://hrm.pragmatictestlabs.com)
     2. [API Testing ]()
     3. [Mobile Testing]()
+
+5. [JMeter Basic videos ](https://youtu.be/3sXLi2P6-6g)
 
