@@ -22,7 +22,7 @@ Please ensure this GitHub repo is clone into your machine to practice the lesson
 
 ## Course outline
 Following is the high level course outline for the training.
-1. JMeter Plugins
+1. [JMeter Plugins](docs/Session1-Plan-17May2021.md)
 2. File uploading with JMeter
 3. Simulating Throughput
 4. API Testing with JMeter
@@ -32,7 +32,6 @@ Following is the high level course outline for the training.
 8. Testing applications with HTTPS
 9. Distribute testing
 10. Running your tests with Redline13
-
 
 
 ## References
