@@ -11,11 +11,12 @@
 7. Set relative paths for resource folders
 8. Running the test with resource files (CSV, images) with Redline 13
 
-## Overview of JMeter plugins
+## JMeter plugins
 
 1. Overview of free and commercial plugins
 2. Plugin manager installation
-3. Plugins installation
+3. Managing plugins 
+    #### Installing plugins 
     1. [PerfMon (Servers Performance Monitoring)]( https://jmeter-plugins.org/wiki/PerfMon/)
     2. [Custom Thread Groups](https://jmeter-plugins.org/wiki/ConcurrencyThreadGroup/)
     3. [Listeners : Basic Graphs](https://jmeter-plugins.org/wiki/ResponseTimesOverTime/)
@@ -25,8 +26,12 @@
     7. [Timers : Throughput Shaping Timer]( https://jmeter-plugins.org/wiki/ThroughputShapingTimer/)
     8. [Custom JMeter Functions](https://jmeter-plugins.org/wiki/Functions/)
     9. [Inter-Thread Communication](https://jmeter-plugins.org/wiki/InterThreadCommunication/)
+    10. [Plugins Manager Network Configuration](https://jmeter-plugins.org/wiki/PluginsManagerNetworkConfiguration/)
+   #### Uninstalling plugins 
+   #### Upgrading plugins
 
 4. Use of the plugins in sample projects
-5. Documentation for Plgins
-6. Custom plugins installation    
+5. Documentation for Plugins
+6. Custom plugins installation
+8. [Ask Questions](https://groups.google.com/g/jmeter-plugins)
 7. Using Plugins with Redline13
