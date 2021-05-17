@@ -1,15 +1,16 @@
 # JMeter Advanced Level Training
+
 Welcome to the JMeter Advanced Level Training conducted by Pragmatic Training!
 We will use this project to share the JMeete test plans , daily plans, daily notes, references and other artifacts related to the training.
 
-
+---
 ## Prerequisites
 
 1. You should be comfortable in using recording test scripts with JMeter HTTP(s) Test Script Recorder, Manage sessions
    with Post-Processors, run tests, save the test results and analyse the results with the listeners
 2. Knowledge of HTML and web technologies
 3. Basic programming knowledge
-
+---
 ## Setup training environment
 Please ensure this GitHub repo is clone into your machine to practice the lessons learned from the training.
 
@@ -19,20 +20,22 @@ Please ensure this GitHub repo is clone into your machine to practice the lesson
 4. Configure IntelliJ IDEA with Git
 5. Clone the [training project](https://github.com/pragmatictesters/Pragmatic-Learning-JMeter-May-2021.git) from GitHub
 
+---
 
 ## Course outline
 Following is the high level course outline for the training.
 1. [JMeter Plugins](docs/Session1-Plan-17May2021.md)
-2. File uploading with JMeter
-3. Simulating Throughput
-4. API Testing with JMeter
-5. Optimizing JMeter performance
-6. Resource monitoring
-7. Mobile testing
-8. Testing applications with HTTPS
-9. Distribute testing
-10. Running your tests with Redline13
+2. [File uploading with JMeter](docs/Session1-Plan-17May2021.md)
+3. [Simulating Throughput](docs/Session2-Plan-18May2021.md)
+4. [API Testing with JMeter](docs/Session2-Plan-18May2021.md)
+5. [Optimizing JMeter performance](docs/Session3-Plan-19May2021.md)
+6. [Resource monitoring](docs/Session3-Plan-19May2021.md)
+7. [Mobile testing](docs/Session4-Plan-20May2021.md)
+8. [Testing applications with HTTPS](docs/Session4-Plan-20May2021.md)
+9. [Distribute testing](docs/Session5-Plan-21May2021.md)
+10. [Running your tests with Redline13](doc/Session5-Plan-21May2021.md)
 
+---
 
 ## References
 
