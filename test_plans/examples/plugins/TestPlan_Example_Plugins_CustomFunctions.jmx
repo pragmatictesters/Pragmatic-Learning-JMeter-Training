@@ -39,6 +39,8 @@
             <stringProp name="REQUEST_DATA">Random Color : ${__chooseRandom(red,green,blue,orange,violet,magenta,randomColor)}
 
 Country ${__chooseRandom(USA, India,China,Sri Lanka, country)}
+
+
 </stringProp>
             <stringProp name="RESPONSE_DATA">Random Color ${randomColor}
 Country ${country}</stringProp>
