@@ -48,4 +48,5 @@ Following is the high level course outline for the training.
     3. [Mobile Testing]()
 
 5. [JMeter Basic videos ](https://youtu.be/3sXLi2P6-6g)
+6. [Performance Testing Guidance for Web Applications](https://docs.microsoft.com/en-us/previous-versions/msp-n-p/bb924375(v=pandp.10))
 
