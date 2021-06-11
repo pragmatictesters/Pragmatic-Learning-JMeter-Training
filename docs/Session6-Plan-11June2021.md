@@ -12,8 +12,8 @@
 
 ---
 ## Exercises 
-1. Splitting the test data equally across the agents
-2. Throttling 
+1. Beanshell server 
+2. 
 
 ## Demo
 1. Creating utility classes 
