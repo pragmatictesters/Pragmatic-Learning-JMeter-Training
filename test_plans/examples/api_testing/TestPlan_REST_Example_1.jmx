@@ -4,6 +4,8 @@
     <TestPlan guiclass="TestPlanGui" testclass="TestPlan" testname="Test Plan : REST API Testing" enabled="true">
       <stringProp name="TestPlan.comments">Sample test plan for demonstrating REST API Testing
 
+API documentation
+https://documenter.getpostman.com/view/401288/SWLceUSf?version=latest#1ea9f47d-65b6-47d9-af7d-25c4d09f0cf9
 
 </stringProp>
       <boolProp name="TestPlan.functional_mode">false</boolProp>
@@ -98,7 +100,7 @@
               <elementProp name="" elementType="HTTPArgument">
                 <boolProp name="HTTPArgument.always_encode">false</boolProp>
                 <stringProp name="Argument.value">{&#xd;
-    &quot;firstName&quot;: &quot;Janesh&quot;,&#xd;
+    &quot;firstName&quot;: &quot;J${__RandomString(5,Aaabbbddlsyww,)}&quot;,&#xd;
     &quot;lastName&quot;: &quot;Kodikara&quot;,&#xd;
     &quot;email&quot;: &quot;asmith@thinkingtester.com&quot;,&#xd;
     &quot;location&quot;: {&#xd;
@@ -156,13 +158,14 @@
             <intProp name="Assertion.test_type">16</intProp>
           </ResponseAssertion>
           <hashTree/>
+          <DebugPostProcessor guiclass="TestBeanGUI" testclass="DebugPostProcessor" testname="Debug PostProcessor" enabled="true">
+            <boolProp name="displayJMeterProperties">false</boolProp>
+            <boolProp name="displayJMeterVariables">true</boolProp>
+            <boolProp name="displaySamplerProperties">false</boolProp>
+            <boolProp name="displaySystemProperties">false</boolProp>
+          </DebugPostProcessor>
+          <hashTree/>
         </hashTree>
-        <DebugSampler guiclass="TestBeanGUI" testclass="DebugSampler" testname="Debug Sampler" enabled="false">
-          <boolProp name="displayJMeterProperties">false</boolProp>
-          <boolProp name="displayJMeterVariables">true</boolProp>
-          <boolProp name="displaySystemProperties">false</boolProp>
-        </DebugSampler>
-        <hashTree/>
         <HTTPSamplerProxy guiclass="HttpTestSampleGui" testclass="HTTPSamplerProxy" testname="HTTP Request REST : Check the contact" enabled="true">
           <elementProp name="HTTPsampler.Arguments" elementType="Arguments" guiclass="HTTPArgumentsPanel" testclass="Arguments" testname="User Defined Variables" enabled="true">
             <collectionProp name="Arguments.arguments"/>
