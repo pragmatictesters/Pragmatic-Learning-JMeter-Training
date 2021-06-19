@@ -6,19 +6,19 @@ We will use this project to share the JMeete test plans , daily plans, daily not
 ---
 ## Prerequisites
 
-1. You should be comfortable in using recording test scripts with JMeter HTTP(s) Test Script Recorder, Manage sessions
+1. You should be comfortable in creating test scripts (JMX) with JMeter HTTP(s) Test Script Recorder, Manage sessions
    with Post-Processors, run tests, save the test results and analyse the results with the listeners
 2. Knowledge of HTML and web technologies
 3. Basic programming knowledge
 ---
 ## Setup training environment
-Please ensure this GitHub repo is clone into your machine to practice the lessons learned from the training.
+Please ensure this GitHub repo is cloned into your machine (IntelliJ IDEA) to **practice** the lessons learned from the training.
 
 1. Install JDK 1.8
 2. Install IntelliJ IDEA community edition
 3. Install Git
 4. Configure IntelliJ IDEA with Git
-5. Clone the [training project](https://github.com/pragmatictesters/Pragmatic-Learning-JMeter-May-2021.git) from GitHub
+5. Clone the [training project](https://github.com/pragmatictesters/Pragmatic-Learning-JMeter-July-2021..git) from GitHub
 
 ---
 
