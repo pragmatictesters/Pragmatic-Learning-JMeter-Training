@@ -1,0 +1,1 @@
+# Day 3  Notes : 16 July 2021

@@ -1,8 +1,18 @@
-# JMeter Advanced Level Training
-
+# JMeter Advanced Level Training (Online)
+###Become a Performance Test Engineer in 2021 with Apache JMeter 
 Welcome to the JMeter Advanced Level Training conducted by Pragmatic Training!
 We will use this project to share the JMeete test plans , daily plans, daily notes, references and other artifacts related to the training.
+---
+### Dates
+* Day 1 : Monday, 12 July 2021
+* Day 2 : Wednesday, 14 July 2021 
+* Day 3 : Friday, 16 July 2021 
+* Day 4 : Tuesday, 20 July 2021 
+* Day 5 : Friday, 23 July 2021 
 
+### Time 
+* EST : 10:00 a.m. to 12:30 p.m.
+* IST : 7:30 p.m. to 10:00 p.m.
 ---
 ## Prerequisites
 
@@ -12,7 +22,7 @@ We will use this project to share the JMeete test plans , daily plans, daily not
 3. Basic programming knowledge
 ---
 ## Setup training environment
-Please ensure this GitHub repo is cloned into your machine (IntelliJ IDEA) to **practice** the lessons learned from the training.
+Please ensure this GitHub repository is cloned into your machine (IntelliJ IDEA) to **practice** the lessons learned from the training.
 
 1. Install JDK 1.8
 2. Install IntelliJ IDEA community edition
@@ -21,22 +31,30 @@ Please ensure this GitHub repo is cloned into your machine (IntelliJ IDEA) to **
 5. Clone the [training project](https://github.com/pragmatictesters/Pragmatic-Learning-JMeter-July-2021..git) from GitHub
 
 ---
-
 ## Course outline
 Following is the high level course outline for the training.
-1. [JMeter Plugins](docs/Session1-Plan-17May2021.md)
-2. [File uploading with JMeter](docs/Session1-Plan-17May2021.md)
-3. [Simulating Throughput](docs/Session2-Plan-18May2021.md)
-4. [API Testing with JMeter](docs/Session2-Plan-18May2021.md)
-5. [Optimizing JMeter performance](docs/Session3-Plan-19May2021.md)
-6. [Resource monitoring](docs/Session3-Plan-19May2021.md)
-7. [Mobile testing](docs/Session4-Plan-20May2021.md)
-8. [Testing applications with HTTPS](docs/Session4-Plan-20May2021.md)
-9. [Distribute testing](docs/Session5-Plan-21May2021.md)
-10. [Running your tests with Redline13](doc/Session5-Plan-21May2021.md)
+
+1. [Day1-Topic1 : JMeter Plugins](docs/Session1-Plan.md)
+2. [Day1-Topic2 : File uploading with JMeter](docs/Session1-Plan.md)
+3. [Day2-Topic1 : Simulating Throughput](docs/Session2-Plan.md)
+4. [Day2-Topic2 : API Testing with JMeter](docs/Session2-Plan.md)
+5. [Day3-Topic1 : Optimizing JMeter performance](docs/Session3-Plan.md)
+6. [Day3-Topic2 : Resource monitoring](docs/Session3-Plan.md)
+7. [Day4-Topic1 : Mobile testing](docs/Session4-Plan.md)
+8. [Day4-Topic2 : Testing applications with HTTPS](docs/Session4-Plan.md)
+9. [Day5-Topic1 : Distribute testing](docs/Session5-Plan.md)
+10. [Day5-Topic2 : Running your tests with Redline13](doc/Session5-Plan-21May2021.md)
 
 ---
+## Practice sessions and homework 
+There will be practice sessions at the end of each training day pertaining to the topics covered during the day.
+Homework will be given to practice and combine the lessons learned. 
 
+---
+## Certificate 
+The delegates will receive a participation certificate from Redline13 after completing the 5 days program successfully.
+
+---
 ## References
 
 1. [JMeter official website](https://jmeter.apache.org)

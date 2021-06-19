@@ -1,0 +1,1 @@
+# Day 2 Notes : 14 July 2021

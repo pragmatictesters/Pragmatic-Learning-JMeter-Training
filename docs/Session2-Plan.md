@@ -1,4 +1,4 @@
-# Day 2 plan : 18 May 2021
+# Day 2 plan : 14 July  2021
 
 ---
 ## Simulating Throughput with JMeter 

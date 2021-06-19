@@ -1,12 +1,14 @@
-
-# Day 1 Notes : 17 May 2021
+# Day 1 Notes : 12 July 2021
 
 ## Uploading Files with JMeter
+1. Demonstrate file upload 
+2. File upload in distributed testing 
+3. File upload with Redline13 
 
 ## JMeter Plugins Management 
 1. Plugins manager is used for install, update and uninstall the plugins 
 2. Managing plugins manually 
-3. Developing own plugins 
+3. 
 
 ### Lessons to be shared with the delegates 
 
