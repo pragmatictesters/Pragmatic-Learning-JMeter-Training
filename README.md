@@ -1,9 +1,11 @@
 # JMeter Advanced Level Training (Online)
 ### Become a Performance Test Engineer in 2021 with Apache JMeter 
 
-
 Welcome to the JMeter Advanced Level Training conducted by Pragmatic Training!
 We will use this project to share the JMeete test plans , daily plans, daily notes, references and other artifacts related to the training.
+
+## Goals 
+You will be able to learn frequently used **advanced features** of Apache JMeter and apply them in your real projects effectively and efficiently.
 
 ---
 ### Dates
@@ -15,7 +17,7 @@ We will use this project to share the JMeete test plans , daily plans, daily not
 
 ### Time 
 * EST : 10:00 a.m. to 12:30 p.m.
-* IST : 7:30 p.m. to 10:00 p.m.
+* IST : 07:30 p.m. to 10:00 p.m.
 ---
 ## Prerequisites
 
@@ -52,6 +54,8 @@ Following is the high level course outline for the training.
 ## Practice sessions and homework 
 There will be practice sessions at the end of each training day pertaining to the topics covered during the day.
 Homework will be given to practice and combine the lessons learned. 
+
+* Duration : 30 min to 1 hour 
 
 ---
 ## Certificate 
