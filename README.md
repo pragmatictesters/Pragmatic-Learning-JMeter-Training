@@ -61,6 +61,10 @@ Homework will be given to practice and combine the lessons learned.
 ## Certificate 
 The delegates will receive a participation certificate from Redline13 after completing the 5 days program successfully.
 
+
+## Questions and Answers 
+Questions and answers will be tracked through the [Issues](https://github.com/pragmatictesters/Pragmatic-Learning-JMeter-July-2021/issues)
+
 ---
 ## References
 

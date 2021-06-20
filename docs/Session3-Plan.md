@@ -31,5 +31,12 @@ Simulating higher number of users with a single machine
 13. Configure JMeter java options 
 14. Deleting unused plugins 
 
-When should we go for a cloud solution 
+When should we go for a cloud solution ?
+
+## Practice session 
+1. Monitor server heath with JMeter PerfMon 
+2. Optimizing given test plan for better performance 
+
+## Homework 
+1. 
 

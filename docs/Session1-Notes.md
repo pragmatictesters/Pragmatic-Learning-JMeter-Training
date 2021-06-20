@@ -4,13 +4,18 @@
 1. Demonstrate file upload 
 2. File upload in distributed testing 
 3. File upload with Redline13 
+4. Use of [Property Display](https://jmeter.apache.org/usermanual/component_reference.html#Property_Display) to view/set JMeter/System properties
+5. User of ```file.separator``` property in file paths for compatibility 
+``` 
+${__P(file.separator,)}
+```
 
 ## JMeter Plugins Management 
-1. Plugins manager is used for install, update and uninstall the plugins 
+1. Plugins manager is used to install, update and uninstall the plugins 
 2. Managing plugins manually 
 3. 
 
-### Lessons to be shared with the delegates 
+### Lessons to be shared with the delegates
 
 1. Stop Fiddler while recording the tests and working with Plugins Manager
 2. Install library: json-lib

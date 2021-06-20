@@ -9,4 +9,4 @@
 export JAVA_HOME=/Users/hansi/Library/Java/JavaVirtualMachines/corretto-1.8.0_292/Contents/Home
 
 cd ../install/apache-jmeter-5.4.1/bin || exit
-./jmeter.sh  -Jserver.rmi.ssl.disable=true
+./jmeter.sh  -Jserver.rmi.ssl.disable=true -t LAST

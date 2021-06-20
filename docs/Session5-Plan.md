@@ -5,8 +5,7 @@
 1. What is and Why of distributed testing
 2. Terminology used in distributed testing
 3. Configuring master and slaves
-4. Sharing properties, files in distributed environment
-
+4. Sharing properties, test dat files and APIs in distributed environment
 5. Running tests in distributed environment
     1. GUI cmode
     2. CLI mode
@@ -23,3 +22,9 @@
 6. Basic and advanced configurations
 7. Run tests, monitor test results and view test reports
 8. Features available with different pricing plans 
+
+## Practice session 
+1. Setup a distributed testing environment and running the tests 
+
+## Homework 
+1. Setup distributed teting environment and run the tests with test data (CSV), custom APIs etc 

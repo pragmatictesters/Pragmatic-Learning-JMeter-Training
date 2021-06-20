@@ -2,7 +2,7 @@
 
 ## Uploading Files with JMeter
 
-1. Refreshing the knowledge by recoding sample test scenario
+1. Refreshing the knowledge by recoding the sample test scenario
 2. Setting file path 
    1. Absolute path
    2. Relative path 
@@ -12,8 +12,8 @@
 4. Understanding the error while recording file upload
 5. Fixing the file upload issue
 6. Resource folders
-7. Set relative paths for resource folders
-8. Running the test with resource files (CSV, images) with Redline 13
+7. Setting relative paths for resource folders
+8. Running the test plans with resource files (CSV, images) in Redline 13
 
 ## JMeter plugins
 
@@ -38,4 +38,16 @@
 5. Documentation for Plugins
 6. Custom plugins installation
 8. [Ask Questions](https://groups.google.com/g/jmeter-plugins)
-7. Using Plugins with Redline13
+7. Uploading, installing and using Plugins with Redline13 (Public and private)
+
+
+## Practice session 
+1. Record a test scenario with a file upload and create a test plan 
+2. Creating a test script with WebDriver 
+
+
+## Homework 
+1. Upgrade the file upload test plan with following 
+   * Uploading random profile pictures 
+   * Setting folder names in user defined variables with default values
+   * Reading  folder name from CLI
