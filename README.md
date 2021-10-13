@@ -9,11 +9,11 @@ You will be able to learn frequently used **advanced features** of Apache JMeter
 
 ---
 ### Dates
-* Day 1 : Monday, 12 July 2021
-* Day 2 : Wednesday, 14 July 2021 
-* Day 3 : Friday, 16 July 2021 
-* Day 4 : Tuesday, 20 July 2021 
-* Day 5 : Friday, 23 July 2021 
+* Day 1 : 
+* Day 2 : 
+* Day 3 : 
+* Day 4 : 
+* Day 5 : 
 
 ### Time 
 * EST : 10:00 a.m. to 12:30 p.m.
